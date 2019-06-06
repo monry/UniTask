@@ -1,0 +1,32 @@
+{
+    "name": "jp.cysharp.unitask",
+    "displayName": "UniTask",
+    "version": "1.0.0-preview.1",
+    "unity": "2018.3",
+    "description": "Provides an efficient async/await integration to Unity.",
+    "keywords": [
+        "asynchronous"
+    ],
+    "category": "",
+    "dependencies": {},
+    "files": [
+        "package.json",
+        "package.json.meta",
+        "UniRx.Async.meta",
+        "UniRx.Async/",
+        "Tests.meta",
+        "Tests/"
+    ],
+    "author": {
+        "name": "Yoshifumi Kawai",
+        "url": "https://medium.com/@neuecc"
+    },
+    "license": {
+        "type": "MIT",
+        "url": "https://github.com/Cysharp/UniTask/blob/master/LICENSE"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Cysharp/UniTask"
+    }
+}
