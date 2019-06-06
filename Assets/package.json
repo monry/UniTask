@@ -1,7 +1,7 @@
 {
     "name": "jp.cysharp.unitask",
     "displayName": "UniTask",
-    "version": "1.0.0-preview.2",
+    "version": "1.0.0-preview.3",
     "unity": "2018.3",
     "description": "Provides an efficient async/await integration to Unity.",
     "keywords": [
@@ -13,9 +13,7 @@
         "package.json",
         "package.json.meta",
         "UniRx.Async.meta",
-        "UniRx.Async/",
-        "Tests.meta",
-        "Tests/"
+        "UniRx.Async/"
     ],
     "author": {
         "name": "Yoshifumi Kawai",
